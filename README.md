@@ -1,2 +1,2 @@
 # DEMO
-![ASCII Aquarium Demo](Aquarium.gif)
+![ASCII Aquarium Demo](aquarium.gif)
